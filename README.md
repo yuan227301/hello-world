@@ -4,5 +4,5 @@ My first hello world project.
 喜欢C++，喜欢一切未知的东西。
 new info1
 
-The history release of firfox:
+The history release of firefox:
 'http://ftp.mozilla.org/pub/firefox/releases/'
