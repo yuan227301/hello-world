@@ -6,3 +6,6 @@ new info1 2 4
 3 5
 The history release of FireFox:
 'http://ftp.mozilla.org/pub/firefox/releases/'
+
+ssr
+https://shadowsocks-help.github.io/ios/
